@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/dePablobernat/socket-io/issues"
   },
-  "homepage": "https://github.com/dePablobernat/socket-io#readme"
+  "homepage": "https://github.com/dePablobernat/socket-io#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jquery": "^3.2.1",
+    "socket.io": "^2.0.1"
+  }
 }

@@ -1,0 +1,32 @@
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+*.sass-cache
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+.tmp
+*.esproj
+
+# Folders to ignore
+node_modules
+build
+builds
+dist
+release
+temp
+tmp
